@@ -1,3 +1,5 @@
+# App copied from https://shiny.posit.co/ as a demonstration for docker deployment
+
 library(shiny)
 library(bslib)
 library(dplyr)

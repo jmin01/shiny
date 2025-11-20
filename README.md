@@ -4,7 +4,7 @@ This project contains a sample shiny app and a dockerfile to build and run the a
 
 ## Dependencies
 
-- Docker
+- Docker Engine
 - git
 
 ```zsh
